@@ -1,5 +1,5 @@
 h1 {
-    font-size: 50vw;
+    font-size: clamp(24px, 5vw, 48px);
     display: flex;
     justify-content: center;
     align-items: center;
